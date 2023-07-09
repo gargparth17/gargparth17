@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Parth Garg
-- 👀 I’m interested in Development and coding
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Development and programming.
 - 📫 How to reach me gargparth17@gmail.com
 
 <!---
